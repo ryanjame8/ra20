@@ -21,3 +21,4 @@
   service: test
   tag: (\d+(\.\d+)+)
   command: ./scripts/verify
+s
